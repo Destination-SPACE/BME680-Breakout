@@ -3,7 +3,7 @@ This breakout board is for the Bosch BME680/688 low power gas, pressure, tempret
 
 Requires symbols and footprints from [DS Global Library](https://github.com/Destination-SPACE/DS-KiCad-Global-Source)
 
-![](https://github.com/Destination-SPACE/BME680-Breakout/blob/main/bme688Breakout.jpg)
+![](https://github.com/Destination-SPACE/BME680-Breakout/blob/main/bme688Breakout-rev2.jpg)
 
 # Licnese
 
